@@ -1,0 +1,9 @@
+.cache/
+__pychache__/
+.idea/
+*.pyc
+start.sh
+dev_manager.sh
+production_manager.sh
+joshi/
+

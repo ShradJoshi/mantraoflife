@@ -1,0 +1,99 @@
+@import-normalize; /* bring in normalize.css styles */
+
+/* rest of app styles */
+
+/**
+ * Add the correct display in IE 9-.
+ */
+
+audio,
+video {
+  display: inline-block;
+}
+
+/**
+ * Remove the border on images inside links in IE 10-.
+ */
+
+img {
+  border-style: none;
+
+}
+
+/**
+ * Remove the border on images insiddanny@sbo.teche links in IE 10-.
+ */
+
+img {
+  border-style: none;
+}
+
+.card-img-top img {
+  height: 180px;
+  width: 100%;
+  display: block;
+  background-color:white;
+}
+.detail-image {
+  display: block;
+  background-color:white;
+  padding-right:20px;
+
+
+
+
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+.blog-header {
+  line-height: 1;
+  border-bottom: 1px solid #e5e5e5;
+  background: white;
+}
+
+.blog-header-logo {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 2.25rem;
+}
+
+.blog-header-logo:hover {
+  text-decoration: none;
+}
+
+body{
+  background: #f7f9fa !important;
+}
+
+footer{
+  background: #0098F7 ;
+}
+.nav-scroller.py-1.mb-2{
+  background: #0098F7 !important;
+
+}
+.border-shade{
+  border-radius: 5px !important;
+  box-shadow: 5px 10px 18px slategrey !important;
+}
+
+.border-nshade {
+  border-radius: 5px !important;
+}
+.pad {
+  padding: 12px;
+
+}
+
+.buffer {
+  margin: 12px;
+}
+.about-img {
+  width: 50%;
+  padding-right:20px;
+
+}
+.pad-bottom{
+  padding-bottom: 10px;
+}
+

@@ -1,0 +1,29 @@
+[[source]]
+ 
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+ 
+ 
+[packages]
+
+django = "*"
+django-admin = "*"
+django-excel-response2 = "*"
+django-six = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+django-tinymce = "*"
+pytz = "*"
+psycopg2 = "*"
+screen = "*"
+xlwt = "*"
+
+[dev-packages]
+ 
+ 
+ 
+[requires]
+ 
+python_version = "3.7.4"
+
